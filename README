@@ -1,0 +1,12 @@
+Notepad++ Community Release TinyXml library
+-------------------------------------------
+
+The TinyXml parser library originally written by Lee Thomason and
+available from http://www.grinninglizard.com/tinyxml/ or Sourceforge has been
+modified over time to fit the changing needs of Notepad++.
+
+Now these modifications, through the power of git, have been extracted from
+Notepad++ into a stand-alone project once again and are being made available
+for use to Notepad++ Plugin Developers both from within the nppcr_sdk and as
+a stand alone project in its' own repository.
+
